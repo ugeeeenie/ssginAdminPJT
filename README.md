@@ -1,0 +1,2 @@
+# ssginAdminPJT
+SSGIN Admin Project
